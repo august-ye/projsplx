@@ -1,5 +1,5 @@
 # projsplx
-Projection onto a simplex and related
+Projection onto a simplex
 
 This function projects an input vector in any dimension onto the standard probability simplex.
 
